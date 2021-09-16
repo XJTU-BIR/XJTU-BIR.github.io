@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="https://github.com/XJTU-BIR/XJTU-BIR.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/XJTU-BIR/XJTU-BIR.github.io/"/>
+  <updated>2021-09-16T02:01:23.438Z</updated>
+  <id>https://github.com/XJTU-BIR/XJTU-BIR.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/XJTU-BIR/XJTU-BIR.github.io/2021/09/16/index/"/>
+    <id>https://github.com/XJTU-BIR/XJTU-BIR.github.io/2021/09/16/index/</id>
+    <published>2021-09-16T02:01:23.438Z</published>
+    <updated>2021-09-16T02:01:23.438Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
